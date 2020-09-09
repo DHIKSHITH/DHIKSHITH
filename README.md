@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning React
 
-🔭 I’m currently working on 👇
+
 
 <a href="https://github.com/DHIKSHITH/Social-Network-Application">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhikshith&repo=Social-Network-Application" height=130 align="left" />
