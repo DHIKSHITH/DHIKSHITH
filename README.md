@@ -3,12 +3,6 @@
 🌱 I’m currently learning React
 
 
-
-<a href="https://github.com/DHIKSHITH/Social-Network-Application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhikshith&repo=Social-Network-Application" height=130 align="left" />
-</a>
-<br/>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikshith&layout=compact" height=130 />
 <!--
 **DHIKSHITH/DHIKSHITH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
